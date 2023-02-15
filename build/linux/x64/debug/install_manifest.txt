@@ -1,0 +1,11 @@
+/home/animesh/StudioProjects/flutter_method_channel-main/build/linux/x64/debug/bundle/bateery_level
+/home/animesh/StudioProjects/flutter_method_channel-main/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/animesh/StudioProjects/flutter_method_channel-main/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/animesh/StudioProjects/flutter_method_channel-main/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/animesh/StudioProjects/flutter_method_channel-main/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/animesh/StudioProjects/flutter_method_channel-main/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/animesh/StudioProjects/flutter_method_channel-main/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/animesh/StudioProjects/flutter_method_channel-main/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/animesh/StudioProjects/flutter_method_channel-main/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/animesh/StudioProjects/flutter_method_channel-main/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/animesh/StudioProjects/flutter_method_channel-main/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
